@@ -10,4 +10,4 @@ I also used here,control flow statements like:-break, pass and continue.
 
 
 
-![WhatsApp Image 2022-05-15 at 8 50 29 PM](https://user-images.githubusercontent.com/93900988/169680067-6ff3e326-0c25-4c9c-b779-043fa7298859.jpeg)
+![use-of-break-and-continue-python-tutorial](https://user-images.githubusercontent.com/93900988/169680117-231b67a4-4449-4519-875a-279f2432888d.jpg)
